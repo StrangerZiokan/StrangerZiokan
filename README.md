@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **StrangerZiokan/StrangerZiokan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Shikhar Gupta, :bowtie . I consider myself to be a smart worker and a team player. I am skilled in C++, C, Javascript and NodeJS
