@@ -1,4 +1,4 @@
-### Hello World 👋  :bowtie:
+### Hello World 👋  
 
 <!--
 **StrangerZiokan/StrangerZiokan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Shikhar Gupta, :bowtie . I consider myself to be a smart worker and a team player. I am skilled in C++, C, Javascript and NodeJS
+My name is Shikhar Gupta, :bowtie: . I consider myself to be a smart worker and a team player. I am skilled in C++, C, Javascript and NodeJS
