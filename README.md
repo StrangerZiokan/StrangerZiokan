@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-My name is Shikhar Gupta, :bowtie: . I consider myself to be a smart worker and a team player. I am skilled in C++, C, Javascript and NodeJS
 <h2> Hi, I'm Shikhar Gupta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!--img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"-->
 
