@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2> Hi, I'm Shikhar Gupta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!--img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"-->
 
-[![Linkedin: ShikharGupta](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shikhar-gupta-a02515172/)](https://www.linkedin.com/in/shikhar-gupta-a02515172/)
+[![Linkedin: ShikharGupta](https://img.shields.io/badge/-ShikharGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shikhar-gupta-a02515172/)](https://www.linkedin.com/in/shikhar-gupta-a02515172/)
 [![GitHub Shikhar](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://git.io/JUcqO)
 
 
