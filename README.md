@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <!--img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"-->
 
 [![Linkedin: ShikharGupta](https://img.shields.io/badge/-ShikharGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shikhar-gupta-a02515172/)](https://www.linkedin.com/in/shikhar-gupta-a02515172/)
-[![GitHub Shikhar](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://git.io/JUcqO)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -37,7 +36,12 @@ const INDIAN = {
                               }
  challenge: " Currently I am doing the #30DaysOfCode challenge on LeetCode to hone my competitive coding skills"
 }
+
 ```
+## Talking Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=StrangerZiokan&show_icons=true&count_private=true" align="center" /></div>
+
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
