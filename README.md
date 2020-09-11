@@ -33,7 +33,7 @@ const INDIAN = {
                                     General_Secretary: "Electronics and Communication Society",
                                     Vocal_Skills_Head: "Illuminits: Literary Publication and Fine Arts Society",
                                     Mime_Lead: "ADVAY: The Dramatics Club"
-                              }
+                              },
  challenge: " Currently I am doing the #30DaysOfCode challenge on LeetCode to hone my competitive coding skills"
 }
 
