@@ -7,7 +7,7 @@
 [![Linkedin: ](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shikhar-gupta-a02515172/)](https://www.linkedin.com/in/shikhar-gupta-a02515172/)
 
 ## Talking Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=StrangerZiokan&show_icons=true&count_private=true" align="center" width="450" /></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=StrangerZiokan&show_icons=true&count_private=true" align="center" width="450" /></div>
 
 
 
