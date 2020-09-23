@@ -11,7 +11,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img width="10">🤵 A little more about me...  
 
 ```javascript
 const INDIAN = {
@@ -27,7 +27,7 @@ const INDIAN = {
                                     Vocal_Skills_Head: "Illuminits: Literary Publication and Fine Arts Society",
                                     Mime_Lead: "ADVAY: The Dramatics Club"
                               },
- challenge: " Currently I am doing the #30DaysOfCode challenge on LeetCode to hone my competitive coding skills"
+ challenge: "Currently I am doing the #50DaysOfCode challenge on LeetCode to hone my competitive coding skills"
 }
 ```
 
