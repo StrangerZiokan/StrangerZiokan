@@ -6,13 +6,15 @@
 [![Linkedin: ](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shikhar-gupta-a02515172/)](https://www.linkedin.com/in/shikhar-gupta-a02515172/)
 
 ## Talking Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=StrangerZiokan&show_icons=true&count_private=true" align="left" width="400" /></div>
 
 <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400">
 
 
 
-
+<p>
+  <br>
 
 ### <img width="10">🤵 A little more about me...  
 
@@ -34,7 +36,7 @@ const INDIAN = {
 }
 ```
 
-
+</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
