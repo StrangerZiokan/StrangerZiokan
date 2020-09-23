@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 <h2>Hello World, I'm Shikhar Gupta! <img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="100px" width ="100px"></h2>
 <!--img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"-->
 
+<img align="center" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+
+
+
 [![Linkedin: ShikharGupta](https://img.shields.io/badge/-ShikharGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shikhar-gupta-a02515172/)](https://www.linkedin.com/in/shikhar-gupta-a02515172/)
 
 
