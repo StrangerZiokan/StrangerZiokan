@@ -10,7 +10,7 @@ const INDIAN = {
   code: [Javascript, HTML, CSS, C++, C, Java],
   tools: [Node],
   techCommunities: {
-                        Intern: "InCampus","DoorHopper","VewMet"
+                        Intern: "Amazon","InCampus","VewMet"
                         Virtual_experience: "JP Morgan & Chase",
                       },
   position_of_responsibility: {
@@ -18,7 +18,7 @@ const INDIAN = {
                                     Vocal_Skills_Head: "Illuminits: Literary Publication and Fine Arts Society",
                                     Mime_Lead: "ADVAY: The Dramatics Club"
                               },
- challenge: "Currently I am doing the #50DaysOfCode challenge on LeetCode to hone my competitive coding skills"
+ challenge: "Working on Perl/Mason tech stack for building the biggest grocery supply chain."
 }
 ```
 
