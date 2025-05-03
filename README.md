@@ -6,9 +6,14 @@
 
 ```javascript
 const INDIAN = {
-  pronouns: "He" | "him",
-  code: [Javascript, HTML, CSS, C++, C, Java],
-  tools: [Node],
+  code: [Java, C++, Javascript, NodeJS, AWS],
+  tools: [Node, N8N, AWS, GIT],
+
+  workExperience: {
+                    SDE2 : "Piramal Finance"
+                    SDE1 : "Amazon"
+                }
+
   techCommunities: {
                         Intern: "Amazon","InCampus","VewMet"
                         Virtual_experience: "JP Morgan & Chase",
