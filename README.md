@@ -14,7 +14,11 @@ const INDIAN = {
                     SDE1 : "Amazon"
                 }
 
-  techCommunities: {
+ 
+ ongoing - challenge: "Working on building AI agents to change how we sell"
+
+
+ techCommunities: {
                         Intern: "Amazon","InCampus","VewMet"
                         Virtual_experience: "JP Morgan & Chase",
                       },
@@ -23,7 +27,9 @@ const INDIAN = {
                                     Vocal_Skills_Head: "Illuminits: Literary Publication and Fine Arts Society",
                                     Mime_Lead: "ADVAY: The Dramatics Club"
                               },
- challenge: "Working on Perl/Mason tech stack for building the biggest grocery supply chain."
+
+
+
 }
 ```
 
